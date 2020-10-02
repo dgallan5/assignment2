@@ -2,18 +2,18 @@
 
 ## Your name
 
-Change Name
+Daniel Gallant
 
 ## Your Student #
 
-55555555555
+3429145
 
 ## Your UNB Login
 
-updatelogin
+dgallan5
 
 ## Your GitHub Account Username
 
-githubuser
+dgallan5
 
 ## Any comments or concerns
